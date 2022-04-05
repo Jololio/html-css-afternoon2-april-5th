@@ -1,0 +1,83 @@
+body > div {
+    position: relative;
+    height: 1200px;
+}
+
+.boxClass {
+    height: 100px;
+    width: 100px;
+}
+
+#topBar {
+    background-color: grey;
+    position: absolute;
+    width: 1910px;
+    height: 150px;
+}
+
+#smallBlueBox {
+    position: absolute;
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    top: 30px;
+    left: 30px;
+}
+
+#firstColorBar {
+    position: absolute;
+    background-color: blue;
+    width: 1910px;
+    height: 300px;
+    top: 400px;
+}
+
+#secondColorBar {
+    position: absolute;
+    background-color: aqua;
+    width: 1910px;
+    height: 300px;
+    top: 700px;
+}
+
+#thirdColorBar {
+    position: absolute;
+    background-color: greenyellow;
+    width: 1910px;
+    height: 300px;
+    top: 1000px;
+}
+
+#fourthColorBar {
+    position: absolute;
+    background-color: yellow;
+    width: 1910px;
+    height: 300px;
+    top: 1300px;
+}
+
+#circle {
+    position: absolute;
+    background-color: black;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    top: 1490px;
+    right: 10px;
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    top: 1495px;
+    right: 40px;
+}
+
+p {
+    color: black;
+    position: absolute;
+    height: 100px;
+    width: 1800px;
+    top: 150px;
+    left: 10px;
+}
